@@ -12,4 +12,4 @@ I started my work experience in Architecture, with the idea that I would combine
 Reach me at:
 thaismachado31@gmail.com
 or
-[LinkedIn][https://www.linkedin.com/in/thais-ribeiro-machado/]
+[LinkedIn](https://www.linkedin.com/in/thais-ribeiro-machado/)
