@@ -1,5 +1,5 @@
 ### Thaís Machado
-## Full-stack Developer | HTML | CSS | Javascript(ES6) | NodesJS | React | Axios | Express | MongoDB | Bootstrap | MaterialUI
+#### Full-stack Developer | HTML | CSS | Javascript(ES6) | NodesJS | React | Axios | Express | MongoDB | Bootstrap | MaterialUI
 
 Passionate about logic and fast thinking. Throughout my professional experiences, I’ve noticed that more than good logical thinking I’m very passionate about being in creative spaces, and that are always seeking innovation and creating a unique and healthy experience for everybody, from employees to clients.
 
